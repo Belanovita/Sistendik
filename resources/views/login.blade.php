@@ -31,7 +31,7 @@
     </div>
         <div class="login-form col-md-4 col-sm-6">
             <h3 class="text-center mb-4">Login</h3>
-            <form action="login.php" method="POST">
+            <form action="/home" method="POST">
                 <div class="mb-3">
                     <label for="username" class="form-label">Username</label>
                     <input type="text" class="form-control" id="username" name="username" required>
